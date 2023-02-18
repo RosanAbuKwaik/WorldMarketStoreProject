@@ -9,7 +9,10 @@
             <class name ="SearchPOM"></class>
             <class name ="SearchBoxProductsTest"></class>
             <class name ="HeaderLinksTest"></class>
-            <class name="TearDown"></class>
+            <class name ="CartPOM"></class>
+            <class name ="CartTest"></class>
+            <class name ="StoreTest"></class>
+           <class name="TearDown"></class>
         </classes>
     </test>
 
